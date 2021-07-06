@@ -1,0 +1,7 @@
+Para que nuestro proyecto funcione bien tendra que instalar todo con lo que funciona
+usando el comando 'pip install -r requerido.txt' al momento que su terminal se encuentre dentro de
+\CakeHouse
+
+para entrar a la parte de administracion lo puede hacer con el usuario
+user: admin
+password: 123
